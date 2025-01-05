@@ -50,7 +50,7 @@ The dataset, `taxi_trip_pricing.csv`, contains the following features:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jojojoester/taxi-trip-price-prediction.git
+   git clone https://github.com/jojojoester/Taxi-Trip-Price-Prediction-Using-Linear-Regression-and-Streamlit.git
    ```
 
 2. Navigate to the project directory:
@@ -68,6 +68,7 @@ The dataset, `taxi_trip_pricing.csv`, contains the following features:
 1. Run the Streamlit app:
    ```bash
    streamlit run streamlit_app.py
+   #Replace streamlit_app.py with .py file location.
    ```
 
 2. Open the application in your browser and input the trip details to get a predicted trip price.
